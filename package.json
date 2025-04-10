@@ -3,9 +3,12 @@
       "version": "1.0.0",
       "description": "貪食蛇遊戲",
       "scripts": {
-            "dev": "vite"
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
       },
       "devDependencies": {
-            "vite": "^4.5.12"
+        "vite": "^4.5.12"
       }
-}
+    }
+    
